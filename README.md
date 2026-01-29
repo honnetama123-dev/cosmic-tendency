@@ -1,4 +1,3 @@
-![Uploading forest.png…]()
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -9,7 +8,7 @@
 
         body {
             background-image: url('forest.png'); 
-            background-size: contain;
+            background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
             background-attachment: fixed;
